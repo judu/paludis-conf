@@ -1,0 +1,5 @@
+-introspection
+-ruby_targets_ruby19
+-vala
+-gtk3
+-gallium
