@@ -6,11 +6,4 @@ desktop-utils
 hacking
 misc
 sound
-net-im/skype
-app-editors/gedit
-app-paludis/palumaj
-repository/systemd
-sys-apps/systemd
-app-text/tree
 p2p
-app-emulation/qemu-kvm
